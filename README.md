@@ -15,9 +15,9 @@ The goal is to complete 15 of the 30 JavaScript challenges.
 
  Assigned Date        | Due Date         | Assignment Name  | Link
 | ------------- |:-------------:| -----| --------|
-| (Friday) 10-18-19  | (Thursday) 10-24-19 | 01 - JavaScript Drum Kit | https://classroom.github.com/a/YFM_sIQx
-| (Friday) 10-18-19  | (Thursday) 10-24-19 | 02 - JS and CSS Clock | https://classroom.github.com/a/vqugxr24
-| (Friday) 10-18-19  | (Thursday) 10-24-19 | 03 - CSS Variables | https://classroom.github.com/a/Cayyxn9A
+| (Friday) 10-18-19  | (Thursday) 10-24-19 at 11:59PM| 01 - JavaScript Drum Kit | https://classroom.github.com/a/YFM_sIQx
+| (Friday) 10-18-19  | (Thursday) 10-24-19 at 11:59PM| 02 - JS and CSS Clock | https://classroom.github.com/a/vqugxr24
+| (Friday) 10-18-19  | (Thursday) 10-24-19 at 11:59PM| 03 - CSS Variables | https://classroom.github.com/a/Cayyxn9A
 
 
 
