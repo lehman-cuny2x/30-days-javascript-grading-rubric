@@ -55,6 +55,10 @@ https://chris.beams.io/posts/git-commit/
 
 ![](GIFwithinGIF.gif)
 
+**How to add GIF to README**
+
+![](GIF.gif)
+
 
 
 
