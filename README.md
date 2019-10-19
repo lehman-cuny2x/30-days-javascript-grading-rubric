@@ -13,8 +13,12 @@ The goal is to complete 15 of the 30 JavaScript challenges before Friday **Novem
   ## How to submit project
   
   You should have received a url invitation to access the assignment shceduled for the week. A remote repository will automatically be created once you accept the invitation. This will be the remote repo you will submit your project.
+ 
+ **30 Days of JavaScript Challenge Link**
+ 
+ https://javascript30.com/
   
-**GitHub Classroom Link**:
+**GitHub Classroom Link**
 
 https://classroom.github.com/classrooms/56743758-lehman-cuny2x-30-days-javascript
 
