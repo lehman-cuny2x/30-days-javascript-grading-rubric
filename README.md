@@ -6,7 +6,7 @@ The goal is to complete 15 of the 30 JavaScript challenges.
   1. An assignment submission **must** have at least 4 git commits with messages.
   2. Commit messages **must** be written in the imperative mood.
   3. Each commit **must** leave the code in a working state.
-  4. A README file with a 3-5 sentence description of the project.
+  4. **Must** include a README file with a 3-5 sentence description of the project.
 
   
   
