@@ -11,7 +11,7 @@ The goal is to complete 15 of the 30 JavaScript challenges before Friday **Novem
 
   
   
-  ## How to submit project
+  ## How to submit a project
   
   You should have received a url invitation to access the assignment shceduled for the week. A remote repository will automatically be created once you accept the invitation. This will be the remote repo you will submit your project.
  
