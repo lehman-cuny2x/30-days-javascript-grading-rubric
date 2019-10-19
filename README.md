@@ -3,11 +3,11 @@
 The goal is to complete 15 of the 30 JavaScript challenges before Friday **November 8th, 2019**.
 
 ## Rubric for code submission
-  1. An assignment submission **must** have at least 4 git commits with messages. **It's okay if you have more than 4 commits**
-  2. Commit messages **must** be written in the imperative mood.
-  3. Each commit **must** leave the code in a working state.
-  4. **Must** include a README file with a 3-5 sentence description of the project.
-  5. **Must** include a GIF of your project in action embedded in your README.
+ 1. An assignment submission **must** have at least 4 git commits with messages. **It's okay if you have more than 4 commits**
+ 2. Commit messages **must** be written in the imperative mood.
+ 3. Each commit **must** leave the code in a working state.
+ 4. **Must** include a README file with a 3-5 sentence description of the project.
+ 5. **Must** include a GIF of your project in action embedded in your README.
 
   
   
