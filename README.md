@@ -1,6 +1,6 @@
 # 30-days-javascript-grading-rubric
 
-The goal is to complete 15 of the 30 JavaScript challenges.
+The goal is to complete 15 of the 30 JavaScript challenges before Friday **November 8th, 2019**.
 
 ## Rubric for code submission
   1. An assignment submission **must** have at least 4 git commits with messages.
