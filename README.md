@@ -49,6 +49,10 @@ https://chris.beams.io/posts/git-commit/
 | CSS | https://developer.mozilla.org/en-US/docs/Web/CSS | 
 | JavaScript | https://developer.mozilla.org/en-US/docs/Web/JavaScript| 
 
+## How to make a GIF in Windows and Mac ##
+
+**Download LICEcap from** https://www.cockos.com/licecap/
+
 
 
 
