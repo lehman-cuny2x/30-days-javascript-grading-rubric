@@ -7,6 +7,7 @@ The goal is to complete 15 of the 30 JavaScript challenges before Friday **Novem
   2. Commit messages **must** be written in the imperative mood.
   3. Each commit **must** leave the code in a working state.
   4. **Must** include a README file with a 3-5 sentence description of the project.
+  5. A GIF of your project in action embedded in your README.
 
   
   
