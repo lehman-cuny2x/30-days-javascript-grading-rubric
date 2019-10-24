@@ -21,8 +21,6 @@ The goal is to complete 15 of the 30 JavaScript challenges before Friday **Novem
   
 **GitHub Classroom Link**
 
-https://classroom.github.com/classrooms/56743758-lehman-cuny2x-30-days-javascript
-
  Assigned Date        | Due Date         | Assignment Name  | Link
 | ------------- |:-------------:| -----| --------|
 | (Friday) 10-18-19  | (Thursday) 10-24-19 at 11:59PM| 01 - JavaScript Drum Kit | https://classroom.github.com/a/YFM_sIQx
