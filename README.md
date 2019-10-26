@@ -21,11 +21,21 @@ The goal is to complete 15 of the 30 JavaScript challenges before Friday **Novem
   
 **GitHub Classroom Link**
 
+**Week1**
+
  Assigned Date        | Due Date         | Assignment Name  | Link
 | ------------- |:-------------:| -----| --------|
 | (Friday) 10-18-19  | (Thursday) 10-24-19 at 11:59PM| 01 - JavaScript Drum Kit | https://classroom.github.com/a/YFM_sIQx
 | (Friday) 10-18-19  | (Thursday) 10-24-19 at 11:59PM| 02 - JS and CSS Clock | https://classroom.github.com/a/vqugxr24
 | (Friday) 10-18-19  | (Thursday) 10-24-19 at 11:59PM| 03 - CSS Variables | https://classroom.github.com/a/Cayyxn9A
+
+
+**Week2**
+ Assigned Date        | Due Date         | Assignment Name  | Link
+| (Friday) 10-25-19  | (Thursday) 10-31-19 at 11:59PM| 04 - Array Cardio Day 1 | https://classroom.github.com/a/RsZBxju4
+| (Friday) 10-25-19  | (Thursday) 10-31-19 at 11:59PM| 05 - Flex Panel Gallery | https://classroom.github.com/a/1j7qdXkO
+| (Friday) 10-25-19  | (Thursday) 10-31-19 at 11:59PM| 03 - 29 - Countdown Timer | https://classroom.github.com/a/kC26tms-
+| (Friday) 10-25-19  | (Thursday) 10-31-19 at 11:59PM| 30 - Whack A Mole | https://classroom.github.com/a/KseUQpYS
 
 
 
