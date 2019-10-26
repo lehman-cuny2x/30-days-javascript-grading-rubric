@@ -31,7 +31,10 @@ The goal is to complete 15 of the 30 JavaScript challenges before Friday **Novem
 
 
 **Week2**
- Assigned Date        | Due Date         | Assignment Name  | Link
+
+
+   Assigned Date        | Due Date         | Assignment Name  | Link
+ | ------------- |:-------------:| -----| --------|
 | (Friday) 10-25-19  | (Thursday) 10-31-19 at 11:59PM| 04 - Array Cardio Day 1 | https://classroom.github.com/a/RsZBxju4
 | (Friday) 10-25-19  | (Thursday) 10-31-19 at 11:59PM| 05 - Flex Panel Gallery | https://classroom.github.com/a/1j7qdXkO
 | (Friday) 10-25-19  | (Thursday) 10-31-19 at 11:59PM| 03 - 29 - Countdown Timer | https://classroom.github.com/a/kC26tms-
