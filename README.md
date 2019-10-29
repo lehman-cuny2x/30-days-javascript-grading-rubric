@@ -43,6 +43,7 @@ The goal is to complete 15 of the 30 JavaScript challenges before Friday **Novem
 **OR instead of Week 2 attend and complete the following workshop**
 
 **Build-And-Deploy Workshop
+
    Assigned Date        | Due Date         | Assignment Name  | Link
  | ------------- |:-------------:| -----| --------|
 | (Saturday) 11-02-19  | (Monday) 11-04-19 at 11:59PM| Build and Deploy| https://classroom.github.com/a/nuVJh40F
