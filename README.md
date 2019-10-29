@@ -40,6 +40,12 @@ The goal is to complete 15 of the 30 JavaScript challenges before Friday **Novem
 | (Friday) 10-25-19  | (Thursday) 10-31-19 at 11:59PM| 03 - 29 - Countdown Timer | https://classroom.github.com/a/kC26tms-
 | (Friday) 10-25-19  | (Thursday) 10-31-19 at 11:59PM| 30 - Whack A Mole | https://classroom.github.com/a/KseUQpYS
 
+**OR instead of Week 2 attend and complete the following workshop**
+
+**Build-And-Deploy Workshop
+   Assigned Date        | Due Date         | Assignment Name  | Link
+ | ------------- |:-------------:| -----| --------|
+| (Saturday) 11-02-19  | (Monday) 11-04-19 at 11:59PM| Build and Deploy| https://classroom.github.com/a/nuVJh40F
 
 
 ## Git and GitHub Resources
