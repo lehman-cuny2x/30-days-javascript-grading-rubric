@@ -21,7 +21,7 @@ The goal is to complete 15 of the 30 JavaScript challenges before Friday **Novem
   
 **GitHub Classroom Link**
 
-**Week1**
+**Week 1**
 
  Assigned Date        | Due Date         | Assignment Name  | Link
 | ------------- |:-------------:| -----| --------|
@@ -30,7 +30,7 @@ The goal is to complete 15 of the 30 JavaScript challenges before Friday **Novem
 | (Friday) 10-18-19  | (Thursday) 10-24-19 at 11:59PM| 03 - CSS Variables | https://classroom.github.com/a/Cayyxn9A
 
 
-**Week2**
+**Week 2**
 
 
    Assigned Date        | Due Date         | Assignment Name  | Link
